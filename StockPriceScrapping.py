@@ -72,3 +72,5 @@ while int(time_now.hour) >= int(opening_time.hour) and int(time_now.hour) <= int
     for each in favourite_stocks:
         stockPrice(each)
     time.sleep(60)
+
+# the end
