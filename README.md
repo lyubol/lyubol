@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lyubol (Lyubomir Lirkov)
 - 👀 I’m interested in data analysis / data engineering / software engineering
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 Reach me at lyubomir.lirkov@gmail.com
 
