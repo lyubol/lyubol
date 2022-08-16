@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis / data engineering / software engineering
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 Reach me at lyubomir.lirkov@gmail.com
-- 📄 https://www.linkedin.com/in/lyubomir-lirkov-4b214386/
+- 📄 LinkedIn Profile: https://www.linkedin.com/in/lyubomir-lirkov-4b214386/
 
 <!---
 lyubol/lyubol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
