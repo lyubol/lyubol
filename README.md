@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lyubol (Lyubomir Lirkov)
-- 👀 I’m interested in data analysis / data engineering / software engineering
+- 👀 I’m interested in data engineering
 - 📫 Reach me at lyubomir.lirkov@gmail.com
 - 📄 LinkedIn Profile: https://www.linkedin.com/in/lyubomir-lirkov-4b214386/
 
